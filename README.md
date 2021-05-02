@@ -1,5 +1,5 @@
-<a href="https://www.dropbox.com/s/f421pyzlfo43u25/Bowling%20VR-3.apk?dl=1"><button>Download</button></a> TIPO 1
-<a href="https://www.google.com/" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">Primary link</a> TIPO 2
+TIPO 1 <a href="https://www.dropbox.com/s/f421pyzlfo43u25/Bowling%20VR-3.apk?dl=1"><button>Download</button></a> TIPO 2
+<a href="https://www.google.com/" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">Primary link</a>
 
 # Hands Tracking (Oculus Quest) directly in Unity Editor
 
